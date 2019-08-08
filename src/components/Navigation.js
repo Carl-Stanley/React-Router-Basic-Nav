@@ -7,7 +7,7 @@ const Navigation = () => {
         <h1>React Router Mini</h1>
         <div>
 
-        <Link to="/Home">Home</Link>
+        <Link to="/">Home</Link>
           
         </div>
         <div>
